@@ -19,9 +19,9 @@
 # nombres = nombre1 + " " + nombre2
 # print(nombres)
 
-nombre = 'Tony Soprano'
-edad = 51
-print('El nombre es: ' + nombre)
+# nombre = 'Tony Soprano'
+# edad = 51
+# print('El nombre es: ' + nombre)
 
 # nombre = 'Julia'
 # apellido = 'Roberts'
@@ -30,3 +30,4 @@ print('El nombre es: ' + nombre)
 
 # curso = 'Python'
 # print('Estas tomando un curso de: ' + curso)
+
