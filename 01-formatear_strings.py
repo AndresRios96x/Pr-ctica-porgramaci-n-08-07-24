@@ -21,10 +21,10 @@
 # puntos_nuevos = 15
 # print(f"Has ganado {puntos_nuevos} puntos en total, acumulas {puntos_totales} puntos")
 
-puntos_anteriores = 100
-puntos_nuevos = 15
-puntos_totales = puntos_anteriores + puntos_nuevos
-print(f"Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_totales} puntos")
+# puntos_anteriores = 100
+# puntos_nuevos = 15
+# puntos_totales = puntos_anteriores + puntos_nuevos
+# print(f"Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_totales} puntos")
  
  
 
