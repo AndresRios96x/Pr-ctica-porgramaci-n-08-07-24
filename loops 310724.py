@@ -54,9 +54,8 @@
 # for nombre in alumnos_calse:
 #     print("Hola" + " " + nombre)
 
-lista_numeros = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
+# lista_numeros = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
 
-for suma_numeros sum(lista_numeros):
-    print("la suma es: " + suma_numeros)
+# for suma_numeros sum(lista_numeros):
+#     print("la suma es: " + suma_numeros)
     
-
